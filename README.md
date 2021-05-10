@@ -1,4 +1,4 @@
-# Live link https://alisahindev.github.io/storade-example/
+# Live link https://shopping-website-example.netlify.app/
 
 
 # Getting Started with Create React App
